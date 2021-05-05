@@ -3,12 +3,11 @@ import os
 
 sys.path.append(os.getcwd())
 
-import src.data.data as data
-from utils.utils import DD
-import utils.utils as utils
+import conceptnet.data.data_utils as data
+from conceptnet.utils import DD
+from conceptnet import utils as utils
 import random
-from src.data.utils import TextEncoder
-from tqdm import tqdm
+from conceptnet.data.utils import TextEncoder
 import torch
 
 # Manually change the set of categories you don't want to include

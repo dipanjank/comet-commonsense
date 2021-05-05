@@ -1,4 +1,4 @@
-mkdir data/conceptnet
+mkdir -p data/conceptnet
 
 cd data/conceptnet
 
