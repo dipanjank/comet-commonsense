@@ -1,6 +1,6 @@
 # Cleanup TO-DOs
 
-* Simplify class hiearchy of GenerationTrainer
+* Simplify class hierarchy of GenerationTrainer
 * Add evaluation methods from upstream repository
 * Verify that the code works
 * Investigate if the OpenAI code can be replaced by existing packages
