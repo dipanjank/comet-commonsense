@@ -1,3 +1,10 @@
+# Cleanup TO-DOs
+
+* Simplify class hiearchy of GenerationTrainer
+* Add evaluation methods from upstream repository
+* Verify that the code works
+* Investigate if the OpenAI code can be replaced by existing packages
+
 To run a generation experiment (either conceptnet or atomic), follow these instructions:
 
 
